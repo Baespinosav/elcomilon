@@ -1,2 +1,0 @@
-# elcomilon
-ingenieria de software
